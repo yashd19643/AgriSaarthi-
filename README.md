@@ -1,3 +1,4 @@
 # AgriSaarthi-
 Smart AI Assistant for Farmers. 
-Author-Yash,Gayatri,Sanika,Chaitali
+<br>
+Author's-Yash,Gayatri,Sanika,Chaitali
